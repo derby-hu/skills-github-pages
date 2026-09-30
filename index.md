@@ -1,3 +1,3 @@
 ---
-title: Welcome to my blog!
+title: 茫茫网际，有缘相聚。我是并熠
 ---
